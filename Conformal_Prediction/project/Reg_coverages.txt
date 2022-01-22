@@ -1,0 +1,2 @@
+[test_coverage_fixed, train_coverage_fixed, test_coverage_pin, train_coverage_pin]
+[0.09975062344139651, 0.08858057630736393, 0.09975062344139651, 0.09071504802561366]
